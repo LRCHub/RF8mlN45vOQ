@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "美しい日",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-03-10T11:57:31.491761Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "美しい日",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_美しい日_SUPER_BEAVER.txt"
+    }
+  ]
+}
